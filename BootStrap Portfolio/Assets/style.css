@@ -1,0 +1,23 @@
+nav {
+	height: 100px;
+}
+
+.navbar-brand {
+	background-color: #4AAAA5;
+	height: 100%;
+}
+
+.navbar-brand h1 {
+		color: #FFFFFF;
+}
+
+#bs-example-navbar-collapse-1 ul {
+	height: 100%;
+	padding-top: 2%;
+	font-size: 20px;
+}
+
+#bs-example-navbar-collapse-1 ul li {
+	border-left: 1px solid #EFEFEF;
+	border-right: 1px solid #EFEFEF;
+}
